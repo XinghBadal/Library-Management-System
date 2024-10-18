@@ -1,10 +1,10 @@
-# Acxicom On-Campus Project Round
+# Acxiom On-Campus Project Round
 
 Library Management is a full-stack web application that allows users to manage books, borrowers, and borrowing transactions in a library setting. It utilizes the MERN stack, which includes MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js for the backend. With this application, users can perform operations such as adding new books, tracking borrowed books, managing borrower details, and generating reports. The application provides an intuitive and user-friendly interface for efficient library management.
 
 ## Tech Stack
 
-**Client:** React, Redux
+**Client:** React
 
 **Server:** Node, Express , Passport JS , PassportJs
 
