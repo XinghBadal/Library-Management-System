@@ -6,7 +6,7 @@ Library Management is a full-stack web application that allows users to manage b
 
 **Client:** React
 
-**Server:** Node, Express , Passport JS , PassportJs
+**Server:** Node, Express , Passport JS 
 
 ## Features
 
